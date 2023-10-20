@@ -1,5 +1,7 @@
 # Fake UNAME
 
+Modified to emulate x86_64 centos
+
 uname command is often used in scripts to tell which OS is it running on.
 Sometimes, when Linux gets updated too ofter, scripts may fail in abrupt
 manner, receiving non-expected values from system uname.
